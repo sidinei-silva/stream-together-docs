@@ -31,20 +31,22 @@
       "## **Entradas**",
       "- ${4:Entradas}",
       "",
-      "## **Saídas**",
-      "- ${5:Saídas}",
-      "",
       "## **Pré-condições**",
-      "${6:Pré-condições}",
+      "- ${5:Pré-condições}",
+      "",
+      "## **Regras de negócio**",
+      "- ${6:Regras de negócio}",
       "",
       "## **Fluxo principal**",
-      "${7:Fluxo principal}",
+      "1. ${7:Fluxo principal}",
       "",
       "## **Fluxo alternativo**",
-      "${8:Fluxo alternativo}",
+      "",
+      "### **${8:Nome do fluxo alternativo}**",
+      "1. ${9:Fluxo alternativo}",
       "",
       "## **Pós-condições**",
-      "${9:Pós-condições}"
+      "${10:Pós-condições}"
     ]
   }
 }
